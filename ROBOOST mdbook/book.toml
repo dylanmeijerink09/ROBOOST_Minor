@@ -1,0 +1,12 @@
+[book]
+authors = ["Gijs Arkink"]
+language = "en"
+multilingual = false
+src = "src"
+title = "ExampleOpdracht"
+
+[preprocessor.plantuml]
+plantuml-cmd="http://localhost:8080"
+
+[output.html]
+defaulth-theme = "Ayu"
